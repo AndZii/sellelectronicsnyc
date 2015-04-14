@@ -42,3 +42,4 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
+gem 'therubyracer'
