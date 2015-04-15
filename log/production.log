@@ -79,3 +79,28 @@ I, [2015-04-15T13:36:47.034487 #34087]  INFO -- : Processing by PagesController#
 I, [2015-04-15T13:36:47.042743 #34087]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.4ms)
 I, [2015-04-15T13:36:47.045598 #34087]  INFO -- :   Rendered shared/_navigation.html.erb (1.5ms)
 I, [2015-04-15T13:36:47.045783 #34087]  INFO -- : Completed 200 OK in 11ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T19:28:30.300635 #35557]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 19:28:30 -0400
+I, [2015-04-15T19:28:30.303906 #35557]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T19:28:30.312592 #35557]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.4ms)
+I, [2015-04-15T19:28:36.498424 #35557]  INFO -- :   Rendered shared/_navigation.html.erb (2.5ms)
+I, [2015-04-15T19:28:36.499493 #35557]  INFO -- :   Rendered shared/_prefooter.html.erb (0.2ms)
+I, [2015-04-15T19:28:36.499697 #35557]  INFO -- : Completed 200 OK in 6196ms (Views: 6190.0ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T19:28:36.513481 #35557]  INFO -- : Started GET "/assets/application-cd52abc6bde551b20438bb72aeec68bf.css" for 127.0.0.1 at 2015-04-15 19:28:36 -0400
+I, [2015-04-15T19:28:36.515725 #35557]  INFO -- : Started GET "/assets/application-d88e6e36c721d5fa0682cbe65d41f257.js" for 127.0.0.1 at 2015-04-15 19:28:36 -0400
+I, [2015-04-15T19:28:36.590881 #35557]  INFO -- : Started GET "/assets/font-awesome/fontawesome-webfont-14a0acb0e78c3989db7dee7a8618437d.woff" for 127.0.0.1 at 2015-04-15 19:28:36 -0400
+I, [2015-04-15T19:28:58.626810 #35557]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 19:28:58 -0400
+I, [2015-04-15T19:28:58.627581 #35557]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T19:28:58.628375 #35557]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-04-15T19:28:58.630809 #35557]  INFO -- :   Rendered shared/_navigation.html.erb (1.8ms)
+I, [2015-04-15T19:28:58.630941 #35557]  INFO -- :   Rendered shared/_prefooter.html.erb (0.0ms)
+I, [2015-04-15T19:28:58.631079 #35557]  INFO -- : Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T19:28:58.638078 #35557]  INFO -- : Started GET "/assets/application-cd52abc6bde551b20438bb72aeec68bf.css" for 127.0.0.1 at 2015-04-15 19:28:58 -0400
+I, [2015-04-15T19:28:58.639901 #35557]  INFO -- : Started GET "/assets/application-d88e6e36c721d5fa0682cbe65d41f257.js" for 127.0.0.1 at 2015-04-15 19:28:58 -0400
+I, [2015-04-15T19:29:00.036087 #35557]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 19:29:00 -0400
+I, [2015-04-15T19:29:00.036727 #35557]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T19:29:00.037479 #35557]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-04-15T19:29:00.039824 #35557]  INFO -- :   Rendered shared/_navigation.html.erb (1.8ms)
+I, [2015-04-15T19:29:00.039962 #35557]  INFO -- :   Rendered shared/_prefooter.html.erb (0.0ms)
+I, [2015-04-15T19:29:00.040121 #35557]  INFO -- : Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T19:29:00.047266 #35557]  INFO -- : Started GET "/assets/application-d88e6e36c721d5fa0682cbe65d41f257.js" for 127.0.0.1 at 2015-04-15 19:29:00 -0400
+I, [2015-04-15T19:29:00.049199 #35557]  INFO -- : Started GET "/assets/application-cd52abc6bde551b20438bb72aeec68bf.css" for 127.0.0.1 at 2015-04-15 19:29:00 -0400
