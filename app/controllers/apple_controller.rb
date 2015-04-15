@@ -3,4 +3,6 @@ class AppleController < ApplicationController
   end
   def iphone_5
   end
+  def macbook
+  end
 end

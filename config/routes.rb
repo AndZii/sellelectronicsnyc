@@ -12,6 +12,8 @@ Rails.application.routes.draw do
 
   get 'sell_iphone_5_S_nyc' => "apple#iphone_5", as: :iphone_5
 
+  get 'sell_MacBook_pro_air_NYC' => "apple#macbook", as: :macbook
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
