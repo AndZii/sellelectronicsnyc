@@ -1,4 +1,6 @@
 class AppleController < ApplicationController
-  def iphone
+  def iphone_6
+  end
+  def iphone_5
   end
 end

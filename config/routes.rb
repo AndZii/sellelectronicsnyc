@@ -8,9 +8,9 @@ Rails.application.routes.draw do
 
   get 'contacts' => "pages#contacts", as: :contacts
 
+  get 'sell_iphone_6_nyc' => "apple#iphone_6", as: :iphone_6
 
-  get 'sell_iphone_nyc' => "apple#iphone", as: :iphone
-
+  get 'sell_iphone_5_S_nyc' => "apple#iphone_5", as: :iphone_5
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

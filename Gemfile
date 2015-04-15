@@ -44,3 +44,4 @@ gem 'autoprefixer-rails'
 
 gem 'therubyracer'
 gem 'font-awesome-sass'
+gem 'metamagic'

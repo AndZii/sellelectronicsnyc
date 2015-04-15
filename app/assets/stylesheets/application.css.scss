@@ -66,8 +66,23 @@ li > a:before {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
   }
+
+}
+
+.jumbotron {
+  background: white;
 }
 
 .mob-btn {
   width: 130px;
+
+}
+
+p {
+  text-indent: 40px;
+}
+
+.img-responsive {
+  border-color: #ffffff;
+  border-radius: 10px;
 }

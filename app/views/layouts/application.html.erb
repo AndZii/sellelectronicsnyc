@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SellElectronics</title>
+  <%= metamagic %>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+<%
+   meta description:"Description",
+        keywords: %w(iPhone iPod iPad iPhone6 iPhone5 MacBook Mac Book iMac Samsung Galaxy Tablet Tab)
+%>
 <%= render 'shared/navigation' %>
 
 <%= yield %>
