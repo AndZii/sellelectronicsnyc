@@ -1,0 +1,81 @@
+I, [2015-04-15T13:18:59.298633 #33987]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:18:59 -0400
+I, [2015-04-15T13:18:59.301684 #33987]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:18:59.310607 #33987]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.4ms)
+I, [2015-04-15T13:18:59.315097 #33987]  INFO -- :   Rendered shared/_navigation.html.erb (1.8ms)
+I, [2015-04-15T13:18:59.315293 #33987]  INFO -- : Completed 200 OK in 14ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:19:03.806850 #33987]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:19:03 -0400
+I, [2015-04-15T13:19:03.807522 #33987]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:19:03.808174 #33987]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:19:03.809737 #33987]  INFO -- :   Rendered shared/_navigation.html.erb (1.2ms)
+I, [2015-04-15T13:19:03.809899 #33987]  INFO -- : Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:19:16.712061 #33987]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:19:16 -0400
+I, [2015-04-15T13:19:16.712654 #33987]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:19:16.713185 #33987]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:19:16.714497 #33987]  INFO -- :   Rendered shared/_navigation.html.erb (1.0ms)
+I, [2015-04-15T13:19:16.714625 #33987]  INFO -- : Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:25:29.001419 #34026]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:25:29 -0400
+I, [2015-04-15T13:25:29.004449 #34026]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:25:29.012339 #34026]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.3ms)
+I, [2015-04-15T13:25:29.015320 #34026]  INFO -- :   Rendered shared/_navigation.html.erb (1.5ms)
+I, [2015-04-15T13:25:29.015499 #34026]  INFO -- : Completed 200 OK in 11ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:25:38.455709 #34026]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:25:38 -0400
+I, [2015-04-15T13:25:38.456368 #34026]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:25:38.458221 #34026]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.2ms)
+I, [2015-04-15T13:25:38.460902 #34026]  INFO -- :   Rendered shared/_navigation.html.erb (1.4ms)
+I, [2015-04-15T13:25:38.461054 #34026]  INFO -- : Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:25:39.183959 #34026]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:25:39 -0400
+I, [2015-04-15T13:25:39.184577 #34026]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:25:39.185209 #34026]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:25:39.186655 #34026]  INFO -- :   Rendered shared/_navigation.html.erb (1.0ms)
+I, [2015-04-15T13:25:39.186807 #34026]  INFO -- : Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:25:44.000332 #34026]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:25:44 -0400
+I, [2015-04-15T13:25:44.000989 #34026]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:25:44.001666 #34026]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:25:44.003240 #34026]  INFO -- :   Rendered shared/_navigation.html.erb (1.1ms)
+I, [2015-04-15T13:25:44.003391 #34026]  INFO -- : Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:26:42.811835 #34032]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:26:42 -0400
+I, [2015-04-15T13:26:42.814836 #34032]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:26:42.823200 #34032]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.3ms)
+I, [2015-04-15T13:26:42.826292 #34032]  INFO -- :   Rendered shared/_navigation.html.erb (1.4ms)
+I, [2015-04-15T13:26:42.826491 #34032]  INFO -- : Completed 200 OK in 12ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:26:42.866292 #34032]  INFO -- : Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 127.0.0.1 at 2015-04-15 13:26:42 -0400
+I, [2015-04-15T13:26:47.123938 #34032]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:26:47 -0400
+I, [2015-04-15T13:26:47.124541 #34032]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:26:47.125122 #34032]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:26:47.126448 #34032]  INFO -- :   Rendered shared/_navigation.html.erb (1.0ms)
+I, [2015-04-15T13:26:47.126615 #34032]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:27:01.253808 #34032]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:27:01 -0400
+I, [2015-04-15T13:27:01.254375 #34032]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:27:01.254921 #34032]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.0ms)
+I, [2015-04-15T13:27:01.256142 #34032]  INFO -- :   Rendered shared/_navigation.html.erb (0.9ms)
+I, [2015-04-15T13:27:01.256265 #34032]  INFO -- : Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:17.568254 #34084]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:36:17 -0400
+I, [2015-04-15T13:36:17.571540 #34084]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:36:17.579642 #34084]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.4ms)
+I, [2015-04-15T13:36:17.582375 #34084]  INFO -- :   Rendered shared/_navigation.html.erb (1.4ms)
+I, [2015-04-15T13:36:17.582537 #34084]  INFO -- : Completed 200 OK in 11ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:20.697935 #34084]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:36:20 -0400
+I, [2015-04-15T13:36:20.698620 #34084]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:36:20.700652 #34084]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.3ms)
+I, [2015-04-15T13:36:20.703406 #34084]  INFO -- :   Rendered shared/_navigation.html.erb (1.4ms)
+I, [2015-04-15T13:36:20.703559 #34084]  INFO -- : Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:24.694910 #34084]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:36:24 -0400
+I, [2015-04-15T13:36:24.695565 #34084]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:36:24.696291 #34084]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-04-15T13:36:24.697769 #34084]  INFO -- :   Rendered shared/_navigation.html.erb (1.0ms)
+I, [2015-04-15T13:36:24.697911 #34084]  INFO -- : Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:25.975686 #34084]  INFO -- : Started GET "/contacts" for 127.0.0.1 at 2015-04-15 13:36:25 -0400
+I, [2015-04-15T13:36:25.976419 #34084]  INFO -- : Processing by PagesController#contacts as HTML
+I, [2015-04-15T13:36:25.978525 #34084]  INFO -- :   Rendered pages/contacts.html.erb within layouts/application (0.3ms)
+I, [2015-04-15T13:36:25.980027 #34084]  INFO -- :   Rendered shared/_navigation.html.erb (1.1ms)
+I, [2015-04-15T13:36:25.980170 #34084]  INFO -- : Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:26.981288 #34084]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:36:26 -0400
+I, [2015-04-15T13:36:26.981946 #34084]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:36:26.982683 #34084]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.1ms)
+I, [2015-04-15T13:36:26.984329 #34084]  INFO -- :   Rendered shared/_navigation.html.erb (1.2ms)
+I, [2015-04-15T13:36:26.984472 #34084]  INFO -- : Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+I, [2015-04-15T13:36:47.031416 #34087]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-15 13:36:47 -0400
+I, [2015-04-15T13:36:47.034487 #34087]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-15T13:36:47.042743 #34087]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.4ms)
+I, [2015-04-15T13:36:47.045598 #34087]  INFO -- :   Rendered shared/_navigation.html.erb (1.5ms)
+I, [2015-04-15T13:36:47.045783 #34087]  INFO -- : Completed 200 OK in 11ms (Views: 5.7ms | ActiveRecord: 0.0ms)
