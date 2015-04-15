@@ -18260,3 +18260,90 @@ Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-15 19
 
 
 Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 127.0.0.1 at 2015-04-15 19:52:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (2.5ms)
+  Rendered shared/_prefooter.html.erb (0.2ms)
+Completed 200 OK in 136ms (Views: 129.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/apple.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 127.0.0.1 at 2015-04-15 19:55:01 -0400
+
+
+Started GET "/sell_iphone_5_S_nyc" for 127.0.0.1 at 2015-04-15 19:55:05 -0400
+Processing by AppleController#iphone_5 as HTML
+  Rendered apple/iphone_5.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (2.4ms)
+  Rendered shared/_prefooter.html.erb (0.2ms)
+Completed 200 OK in 59ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/sell_iphone_6_nyc" for 127.0.0.1 at 2015-04-15 19:55:19 -0400
+Processing by AppleController#iphone_6 as HTML
+  Rendered apple/iphone_6.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (1.8ms)
+  Rendered shared/_prefooter.html.erb (0.0ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
