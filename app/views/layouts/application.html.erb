@@ -7,14 +7,16 @@
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+<body class="container">
 <%
    meta description:"Description",
         keywords: %w(iPhone iPod iPad iPhone6 iPhone5 MacBook Mac Book iMac Samsung Galaxy Tablet Tab)
 %>
-<%= render 'shared/navigation' %>
 
+<%= render 'shared/navigation' %>
+<section>
 <%= yield %>
+</section>
 <%= render 'shared/prefooter'%>
 </body>
 </html>

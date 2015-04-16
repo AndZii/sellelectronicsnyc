@@ -1,69 +1,23 @@
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-
-      <%= link_to(root_path, :class => 'navbar-brand') do %>
-          Sell Electronics NYC
-      <% end %>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
-      <ul class="nav navbar-nav navbar-right">
-        <li><%= link_to "home", root_path%></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">we buy <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><%= link_to 'Phones' %></li>
-            <li><%= link_to 'Tablets' %></li>
-            <li><%= link_to 'Laptops' %></li>
-            <li><%= link_to 'Cameras' %></li>
-            <li><%= link_to 'Game Consoles' %></li>
-            <li><%= link_to 'All Apple Products'%></li>
-            <li><%= link_to 'Other Items' %></li>
-
-          </ul>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">most popular items <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><%= link_to 'iPhone 6 / 6 plus' , iphone_6_path%></li>
-            <li><%= link_to 'iPhone 5 / 5S' , iphone_5_path%></li>
-            <li><%= link_to 'iPad Air / Mini' %></li>
-            <li><%= link_to 'iMac / Mac Pro' %></li>
-            <li><%= link_to 'MacBook Pro / Air', macbook_path %></li>
-            <li><%= link_to 'Apple Watch' %></li>
-            <li class="divider"></li>
-            <li><%= link_to 'Samsubg Galaxy' %></li>
-            <li><%= link_to 'Nikon Cameras' %></li>
-            <li><%= link_to 'Canon Cameras' %></li>
-            <li><%= link_to 'X Box One' %></li>
-            <li><%= link_to 'Play Station 4' %></li>
-
-          </ul>
+<header class="row text-center ">
+  <div class="col-md-4 menu col-xs-6">
+    <a href="">Address: <br/>  8710 Lefferts BLVD,<br/> Richmond Hill, NY, 11418</a>
+  </div>
+  <div class="col-md-4 menu col-xs-4 hidden-xs hidden-sm">
+    <a href=""><h1>Welcome to <br/> SellElectronics.NYC</h1></a>
+  </div>
+  <div class="col-md-4 menu col-xs-6">
+    <a href="">Phone: <br/> +1 (718) 846-1600</a> <br/>
+    <a href="">8710leffertsblvd@gmail.com</a>
+  </div>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <div class="visible-sm visible-xs text-center"><h2>Welcome to <br/> SellElectronics.NYC</h2></div>
+</header>
 
 
-        </li>
-        <li><%= link_to "contacts", contacts_path%></li>
-        <li><%= link_to "about us", about_path%></li>
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-
-<div class="container">
-  <a href="https://www.google.com/maps/dir/Current+Location/8710+Lefferts+BLVD+Richmond+Hill+NY+11418" class="btn btn-default btn-lg pull-left visible-xs mob-btn"><i class="fa fa-map-marker"></i> Map</a>
-  <a href="tel:+1-718-846-1600" class="btn btn-default btn-lg pull-right visible-xs mob-btn"><i class="fa fa-phone"></i> Call  </a>
+<div class="row">
+  <img src="devider.png" alt="" class="img-responsive devider"/>
 </div>
-
-<div class="space visible-xs">
-
-</div>
-
