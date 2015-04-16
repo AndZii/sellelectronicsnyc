@@ -45687,3 +45687,303 @@ Processing by OtherItemsController#cameras as HTML
   Rendered shared/_navigation.html.erb (0.0ms)
   Rendered shared/_footer.html.erb (0.0ms)
 Completed 200 OK in 69ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.8ms)
+  Rendered shared/_navigation.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 152ms (Views: 144.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/apple.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/other_items.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-04-16 18:06:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 67.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/other_items.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/apple.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:16 -0400
+
+
+Started GET "/sell_apple_watch_nyc_queens" for 127.0.0.1 at 2015-04-16 18:07:18 -0400
+Processing by AppleController#apple_watch as HTML
+  Rendered apple/apple_watch.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 70ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/sell_apple_watch_nyc_queens" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+Processing by AppleController#apple_watch as HTML
+  Rendered apple/apple_watch.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 64ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/other_items.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/apple.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-16 18:07:55 -0400
+
+
+Started GET "/sell_apple_watch_nyc_queens" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+Processing by AppleController#apple_watch as HTML
+  Rendered apple/apple_watch.html.erb within layouts/application (0.2ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 62ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/other_items.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/assets/apple.js?body=1" for 127.0.0.1 at 2015-04-16 18:09:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-16 18:09:28 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 70.1ms | ActiveRecord: 0.0ms)
