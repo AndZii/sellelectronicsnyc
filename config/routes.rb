@@ -2,17 +2,27 @@ Rails.application.routes.draw do
 
 
 
+
+
   root 'pages#home'
 
-  get 'about' => "pages#about", as: :about
+  get 'sell_iphone_6_nyc_queens' => "apple#iphone_6", as: :iphone_6
 
-  get 'contacts' => "pages#contacts", as: :contacts
+  get 'sell_iphone_5_S_nyc_queens' => "apple#iphone_5", as: :iphone_5
 
-  get 'sell_iphone_6_nyc' => "apple#iphone_6", as: :iphone_6
+  get 'sell_MacBook_pro_air_nyc_queens' => "apple#macbook", as: :macbook
 
-  get 'sell_iphone_5_S_nyc' => "apple#iphone_5", as: :iphone_5
+  get 'sell_ipad_air_mini_nyc_queens' => "apple#ipad_air", as: :ipad_air
 
-  get 'sell_MacBook_pro_air_NYC' => "apple#macbook", as: :macbook
+  get 'sell_apple_watch_nyc_queens' => "apple#apple_watch", as: :apple_watch
+
+  get 'sell_imac_nyc_queens' => "apple#imac", as: :imac
+
+  get 'sell_samsung_galaxy_queens_nyc' => "other_items#phones", as: :phones
+
+  get 'sell_x_box_play_station_nyc_queens' => "other_items#consoles", as: :consoles
+
+  get 'sell_nikon_canon_cameras_nyc_queens' => "other_items#cameras", as: :cameras
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

@@ -11,10 +11,19 @@ html, body {
 
 }
 
-h1, .h1 {
+h1, h2 {
+  font-weight: bold;
+}
+
+header h2,  .h1 {
 
   color: gold;
 
+}
+
+h2 a {
+  color: red;
+  z-index: 22;
 }
 
 h4 {
@@ -30,7 +39,7 @@ p {
 a > h2 {
   padding: 0;
   margin: 0;
-  margin-bottom: 15;
+  margin-bottom: 15px;
   top: 10px;
 }
 
@@ -65,9 +74,15 @@ header {
 }
 
 .mark {
-//  border: 2px solid #ffd558;
-
+background: #f6f6f6;
 }
+
+.back_btn, .back_btn:hover {
+  font-size: 130%;
+  text-indent: 20px;
+  color: black;
+}
+
 
 footer {
   height: 100px;

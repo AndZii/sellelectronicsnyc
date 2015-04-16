@@ -5,4 +5,10 @@ class AppleController < ApplicationController
   end
   def macbook
   end
+  def imac
+  end
+  def ipad_air
+  end
+  def apple_watch
+  end
 end
