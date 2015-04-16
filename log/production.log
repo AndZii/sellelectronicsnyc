@@ -104,3 +104,12 @@ I, [2015-04-15T19:29:00.039962 #35557]  INFO -- :   Rendered shared/_prefooter.h
 I, [2015-04-15T19:29:00.040121 #35557]  INFO -- : Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
 I, [2015-04-15T19:29:00.047266 #35557]  INFO -- : Started GET "/assets/application-d88e6e36c721d5fa0682cbe65d41f257.js" for 127.0.0.1 at 2015-04-15 19:29:00 -0400
 I, [2015-04-15T19:29:00.049199 #35557]  INFO -- : Started GET "/assets/application-cd52abc6bde551b20438bb72aeec68bf.css" for 127.0.0.1 at 2015-04-15 19:29:00 -0400
+I, [2015-04-16T19:16:59.889200 #38831]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-16 19:16:59 -0400
+I, [2015-04-16T19:16:59.893257 #38831]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-16T19:16:59.905062 #38831]  INFO -- :   Rendered pages/home.html.erb within layouts/application (2.7ms)
+I, [2015-04-16T19:17:04.083006 #38831]  INFO -- :   Rendered shared/_navigation.html.erb (0.4ms)
+I, [2015-04-16T19:17:04.084033 #38831]  INFO -- :   Rendered shared/_footer.html.erb (0.2ms)
+I, [2015-04-16T19:17:04.891844 #38831]  INFO -- : Completed 200 OK in 4998ms (Views: 4992.9ms | ActiveRecord: 0.0ms)
+I, [2015-04-16T19:17:04.904667 #38831]  INFO -- : Started GET "/assets/application-452a004935c42955c93e2273db9bd9cd.css" for 127.0.0.1 at 2015-04-16 19:17:04 -0400
+I, [2015-04-16T19:17:04.925818 #38831]  INFO -- : Started GET "/assets/application-9df535045aa1307aaea084d1065a4cf4.js" for 127.0.0.1 at 2015-04-16 19:17:04 -0400
+I, [2015-04-16T19:17:05.083436 #38831]  INFO -- : Started GET "/assets/font-awesome/fontawesome-webfont-14a0acb0e78c3989db7dee7a8618437d.woff" for 127.0.0.1 at 2015-04-16 19:17:05 -0400
