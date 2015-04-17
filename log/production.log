@@ -113,3 +113,15 @@ I, [2015-04-16T19:17:04.891844 #38831]  INFO -- : Completed 200 OK in 4998ms (Vi
 I, [2015-04-16T19:17:04.904667 #38831]  INFO -- : Started GET "/assets/application-452a004935c42955c93e2273db9bd9cd.css" for 127.0.0.1 at 2015-04-16 19:17:04 -0400
 I, [2015-04-16T19:17:04.925818 #38831]  INFO -- : Started GET "/assets/application-9df535045aa1307aaea084d1065a4cf4.js" for 127.0.0.1 at 2015-04-16 19:17:04 -0400
 I, [2015-04-16T19:17:05.083436 #38831]  INFO -- : Started GET "/assets/font-awesome/fontawesome-webfont-14a0acb0e78c3989db7dee7a8618437d.woff" for 127.0.0.1 at 2015-04-16 19:17:05 -0400
+I, [2015-04-16T20:57:26.279971 #39252]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-16 20:57:26 -0400
+I, [2015-04-16T20:57:26.283660 #39252]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-16T20:57:26.292825 #39252]  INFO -- :   Rendered pages/home.html.erb within layouts/application (1.4ms)
+I, [2015-04-16T20:57:26.294297 #39252]  INFO -- :   Rendered shared/_navigation.html.erb (0.2ms)
+I, [2015-04-16T20:57:26.295206 #39252]  INFO -- :   Rendered shared/_footer.html.erb (0.2ms)
+I, [2015-04-16T20:57:26.323124 #39252]  INFO -- : Completed 200 OK in 39ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+I, [2015-04-16T20:57:28.399293 #39252]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-04-16 20:57:28 -0400
+I, [2015-04-16T20:57:28.400018 #39252]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-04-16T20:57:28.401358 #39252]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.8ms)
+I, [2015-04-16T20:57:28.401698 #39252]  INFO -- :   Rendered shared/_navigation.html.erb (0.0ms)
+I, [2015-04-16T20:57:28.401815 #39252]  INFO -- :   Rendered shared/_footer.html.erb (0.0ms)
+I, [2015-04-16T20:57:28.402137 #39252]  INFO -- : Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
