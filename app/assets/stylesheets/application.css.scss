@@ -5,106 +5,69 @@
 @import "font-awesome";
 
 html, body {
-
   font-family: 'PT sans', Arial;
-  color: black;
-
+  color: #0f1e3b;
 }
 
-h1, h2 {
+h1{
   font-weight: bold;
+  margin-top: 30px;
 }
 
-header h2,  .h1 {
+.main-header {
 
-  color: gold;
+  background: #496d94;
+  height: 80px;
 
 }
 
-h2 a {
-  color: red;
-  z-index: 22;
+.up-header {
+  height: 40px;
+
 }
 
-h4 {
-  font-weight: bold;
-  font-size: 140%;
-}
-
-p {
-  text-indent: 30px;
+.up-header a {
   font-size: 130%;
+  color: #dedede;
 }
+header a {
 
-a > h2 {
-  padding: 0;
-  margin: 0;
-  margin-bottom: 15px;
-  top: 10px;
-}
-
-a {
-  color: white;
-  font-size: 120%;
-}
-
-a:hover {
+  font-size: 200%;
+  color: #f1f1f1;
   text-decoration: none;
-  color: white;
-}
-
-header {
-  height: 120px;
-  background: #131313;
-  z-index: 2;
-  color: white;
-}
-
-.devider {
-  opacity: .95;
-  z-index: 1;
-}
-
-@media(max-width:992px){
-
-  header{
-    height: 200px;
-  }
 
 }
 
-.mark {
-background: #f6f6f6;
+.links a {
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 3px solid white;
+  font-size: 170%;
+
 }
 
-.back_btn, .back_btn:hover {
-  font-size: 130%;
-  text-indent: 20px;
-  color: black;
+.links a:last-child {
+border: 0;
 }
 
 
 footer {
-  height: 100px;
-  background: black;
-  color: white;
-}
-@media(min-width:768px) {
-  .row > .mark:first-child {
-    border-radius: 25px 0 0 25px
-  }
-  .row > .mark:last-child {
-    border-radius: 0 25px 25px 0;
-  }
-}
-@media(max-width:767px){
-
-  .mark {
-    border-radius: 25px;
-  }
-  footer {
-    height: 120px;
-    font-size: 75%;
-  }
+  height: 80px;
+  background: #496d94;
 
 }
+
+.list a {
+  font-size: 120%;
+  color: #0f1e3b;
+}
+
+.navbar-fixed-bottom {
+
+}
+
+h5 {
+  color: #efefef;
+}
+
+
