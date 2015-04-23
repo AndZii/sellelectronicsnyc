@@ -4,6 +4,8 @@ Rails.application.routes.draw do
 
 
 
+  get 'sitemap/index'
+
   root 'pages#home'
 
   get 'sell_iphone_6_nyc_queens' => "apple#iphone_6", as: :iphone_6
